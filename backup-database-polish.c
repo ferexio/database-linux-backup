@@ -15,7 +15,7 @@ int main()
 // Wprowadz potrzebne dane do pliku //
 
 system("user='wpisz_nazwe_usera'");
-system("password='wpisz_nazwe_uzytkownika'");
+system("password='wpisz_haslo_uzytkownika'");
 system("bazadanych='wpisz_nazwe_bazy_danych'");
 system("host='wpisz_nazwe_hosta'");
 system("email='wpisz_swoj_email_gdzie_ma_przyjsc_kopia'");
