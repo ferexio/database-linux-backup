@@ -1,10 +1,3 @@
-//Autor: Andrzej "Ferex" Szczepaniak
-//Pamiętaj o wpisaniu prawidłowych danych do skryptu bo skrypt wtedy będzie kurwić błędami
-//Np encoded to nazwa jaka bedzie nosic zakodowany plik
-//Kod wpisany w C po skompilowaniu pozwala ukryć wszelkie dane jak login, haslo, itd
-//Kod w bashu to polecenia dla serwera Linux
-//Pamietaj ! Nie usuwaj żadnych cudzysłowiów bo są potrzebne !!
-
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
